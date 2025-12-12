@@ -1,2 +1,2 @@
-# neoverde_by_AXC
+# NeoVerde_by_AXC
 ein alexargo aufbau 
